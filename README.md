@@ -1,8 +1,7 @@
 
 # Financial-and-Stock-Analysis
 ## Author
-**Name:** Adham Sherif Hussein Ebaid  
-**Email:** adhamebaid1@gmail.com 
+**Name:** Vishrut Gupta 
 ## Description  
 
 ![PowerBI_Report_Showcase](Media/PBI/PowerBI_Report_Showcase_GIF.gif) 
